@@ -3,15 +3,11 @@ markdown: kramdown
 highlighter: rouge
 
 # Setup
-title: SPAAM Community
-tagline: Website for the SPAAM Community
+title: PEAAS Community
+tagline: Website for the PEAAS Community
 description: |
-  Standards, 
-  Precautions, and 
-  Advances in 
-  Ancient 
-  Metagenomics
-url: https://spaam-community.github.io/spaam-community.github.io-dev/
+  Website for the PEAAS Community
+url: https://PEAAS-community.github.io/
 baseurl:
   "/"
   # the optional subpath of your site, e.g. "/blog"
@@ -22,8 +18,8 @@ baseurl:
 remote_theme: fongandrew/hydeout
 
 author:
-  name: "SPAAM Community"
-  url: https://twitter.com/spaam_community
+  name: "PEAAS Community"
+  url: https://twitter.com/PEAAS_community
 
 paginate: 5
 # paginate_path:    '/page:num'
