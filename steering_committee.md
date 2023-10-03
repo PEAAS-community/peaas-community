@@ -7,11 +7,11 @@ sidebar_link: true
 
 Hello all!
 
-We, the Steering Committee of the SPAAM community would like to take a moment to introduce ourselves and give you all a quick idea of what we do.
+We, the Steering Committee of the PEAAS community would like to take a moment to introduce ourselves and give you all a quick idea of what we do.
 
-First, what is the Steering Committee? This is a new organizing committee that was formed last year during the [**SPAAM4**](https://spaam-community.github.io/events/2022/10/12/event-spaam4/) conference. It is intended to guide the SPAAM community in a more formalized way; this involves brainstorming and proposing new initiatives and helping new initiatives get off the ground (like the successfully  launched [**SPAAMtisch**](https://spaam-community.github.io/projects/#spaamtisch)), increasing engagement and support for SPAAM members and events, helping with ongoing organization efforts, publicization of SPAAM, and sourcing funds for the maintenance of SPAAM.
+First, what is the Steering Committee? This is a new organizing committee that was formed last year during the [**PEAAS4**](https://PEAAS-community.github.io/events/2022/10/12/event-PEAAS4/) conference. It is intended to guide the PEAAS community in a more formalized way; this involves brainstorming and proposing new initiatives and helping new initiatives get off the ground (like the successfully  launched [**PEAAStisch**](https://PEAAS-community.github.io/projects/#PEAAStisch)), increasing engagement and support for PEAAS members and events, helping with ongoing organization efforts, publicization of PEAAS, and sourcing funds for the maintenance of PEAAS.
 
-We all are volunteers on the Steering Committee and we are really excited to work with all of you and help improve the SPAAM community.
+We all are volunteers on the Steering Committee and we are really excited to work with all of you and help improve the PEAAS community.
 
 ## The Steering Committee Members
 
@@ -83,17 +83,17 @@ Contact: shreya23@uchicago.edu, [**twitter**](http://twitter.com/srama23)
 
 **Management team**: formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
 
-- **Chair**: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the SPAAM community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
+- **Chair**: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the PEAAS community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
 
 - **Secretary**: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time
 
 **Treasurer team**
 
-The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund SPAAM initiatives.
+The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund PEAAS initiatives.
 
 **Social media team**
 
-The social media team is responsible for the outreach of the community, by tweeting, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, papers and jobs that are relevant for the SPAAM community. They will also be responsible for maintaining the YouTube channel of the community.
+The social media team is responsible for the outreach of the community, by tweeting, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, papers and jobs that are relevant for the PEAAS community. They will also be responsible for maintaining the YouTube channel of the community.
 
 **Engagement team**
 

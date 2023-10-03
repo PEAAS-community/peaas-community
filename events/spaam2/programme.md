@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SPAAM2 - Programme
+title: PEAAS2 - Programme
 ---
 
 ### Session Structure
@@ -35,13 +35,13 @@ All times CEST (see here for Time Zone
 - _15:45_ **Session 5** [Reuse the refuse: Applying new analytical methods
   beyond current practises](#session-5)
 - _18:00_ Long Break
-- _19:00_ **Session 6** [Discussion: Future steps for SPAAM](#session-6)
+- _19:00_ **Session 6** [Discussion: Future steps for PEAAS](#session-6)
 - _20:00_ Daily Wrap up
 - _20:15_ Finish
 
 ### Abstracts
 
-All sessions will include 'icebreaker' talks by members of the SPAAM community,
+All sessions will include 'icebreaker' talks by members of the PEAAS community,
 who will present on their own experiences and challenges working ancient
 metagenomics to serve as starting point for discussions.
 
@@ -198,7 +198,7 @@ ancient metagenomics sequences in a reference genome free manner.
 **Icebreaker 4 mini-abstract**: _Towards standards in metadata reporting in
 ancient metagenomic studies: experiences from AncientMetagenomeDir_ One of
 the first and last part of most ancient metagenomic studies is to gathering
-or reporting basic metadata about samples and their sequences. A recent SPAAM
+or reporting basic metadata about samples and their sequences. A recent PEAAS
 community project established AncientMetagenomeDir, a comprehensive but
 lightwieght collection of lists of all published ancient metagenomic and
 microbial genome samples. In this icebreaker I will cover the challenges
@@ -239,7 +239,7 @@ develop some guidelines on how to interpret this new type of results and
 establish which conclusions can be drawn from them, in order to avoid
 long-lasting mistakes that come along when adapting new methods to ancient
 genomics. Finally we would like to encourage novel ways of approaching datasets
-building upon previous sessions of SPAAM2 regarding public data sharing
+building upon previous sessions of PEAAS2 regarding public data sharing
 deposition.
 
 **Icebreaker presenters** Maxime Borry and Antonio Fernandez-Guerra
@@ -262,10 +262,10 @@ of the challenges of applying those approaches when analyzing ancient
 metagenomes and provide some ideas for developing computational methods tailored
 to our needs.
 
-#### Session 6 - Future Steps for SPAAM
+#### Session 6 - Future Steps for PEAAS
 
 **Abstract** Now that we have identified common obstacles and discussed possible
 solutions for our field, what's next? In this session we will summarise
 everything talked about in the last two days. We can identify potential common
 projects and 'working commitees' to begin work on these topics. Finally we will
-gather opinions on future meet ups, e.g. a SPAAM3.
+gather opinions on future meet ups, e.g. a PEAAS3.

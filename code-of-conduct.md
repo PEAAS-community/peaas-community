@@ -1,20 +1,20 @@
 ---
 layout: page
 title: Code of Conduct
-sidebar_link: true
+sidebar_link: false
 ---
 
 ## TL;DR
 
-- All attendees and members of SPAAM are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community.
+- All attendees and members of PEAAS are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community.
 - [Unacceptable](#4-unacceptable-behaviour) or illegal behaviour will not be tolerated and the organisers reserve the right to remove anyone violating the Code of Conduct from both in-person or online channels.
-- If at any point you feel unsafe or the code of conduct is violated, please contact any of the following [SPAAM members](#8-contact-info) who will deal with any issues respectfully and anonymously, as required.
+- If at any point you feel unsafe or the code of conduct is violated, please contact any of the following [PEAAS members](#8-contact-info) who will deal with any issues respectfully and anonymously, as required.
 
 > This is only for guidance, and the main body of this page is the enforceable document.
 
 ## 1. Purpose
 
-A primary goal of SPAAM is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socio-economic status, and religion (or lack thereof).
+A primary goal of PEAAS is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socio-economic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour.
 
@@ -79,7 +79,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ### 8. Contact info
 
-SPAAM Safety Office
+PEAAS Safety Office
 
 - Aida Andrades Valtueña (CAT/ES/EN, MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
 - Shreya Ramachandran (EN/ES, University of Chicago, Chicago, shreya23@uchicago.edu)
@@ -87,4 +87,4 @@ SPAAM Safety Office
 - Gunnar Neumann (DE/EN, MPI-EVA, Leipzig, gunnar_neumann@eva.mpg.de)
 - Nasreen Broomand (EN, UCSC, Santa Cruz, nbrooman@ucsc.edu)
 
-To report any violation you can contact any of the members of the SPAAM Safety Office or fill out the [**anonymous report form**](https://forms.gle/9RqKZL8hXBxMvFLs6).
+To report any violation you can contact any of the members of the PEAAS Safety Office or fill out the [**anonymous report form**](https://forms.gle/9RqKZL8hXBxMvFLs6).

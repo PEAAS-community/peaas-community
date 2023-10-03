@@ -1,15 +1,15 @@
 ---
 layout: page
-title: SPAAM2 - Food and Activities
+title: PEAAS2 - Food and Activities
 ---
 
-⚠️ All information is out of date. SPAAM2 is now a virtual workshop!
+⚠️ All information is out of date. PEAAS2 is now a virtual workshop!
 
 ### Food
 
 #### Lunch
 
-~~A table reservation for SPAAM2 attendees will be made on both days at the Toulouse Natural History Museum restaurant, Le Moaï (5 min walk from the workshop venue http://www.lemoai.com/).~~
+~~A table reservation for PEAAS2 attendees will be made on both days at the Toulouse Natural History Museum restaurant, Le Moaï (5 min walk from the workshop venue http://www.lemoai.com/).~~
 
 ~~Each lunch will be charged **17€** and will consist in a **main dish and bread, coffee and an assortment of three sweets**.~~
 
