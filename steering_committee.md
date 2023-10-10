@@ -3,9 +3,11 @@ layout: page
 title: Steering Committee
 sidebar_link: true
 ---
+<!-- Place holder text for until we have a committee -->
+Currently the PEAAS steering committee is still being formed.
+The elected committee members will soon be announced after the first PEAAS meeting.
 
-
-Hello all!
+<!-- Hello all!
 
 We, the Steering Committee of the PEAAS community would like to take a moment to introduce ourselves and give you all a quick idea of what we do.
 
@@ -97,4 +99,4 @@ The social media team is responsible for the outreach of the community, by tweet
 
 **Engagement team**
 
-The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team.
+The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team. -->
