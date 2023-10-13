@@ -3,11 +3,11 @@ markdown: kramdown
 highlighter: rouge
 
 # Setup
-title: PEAAS Community
-tagline: Website for the PEAAS Community
+title: PAASTA Community
+tagline: Website for the PAASTA Community
 description: |
-  Website for the PEAAS Community
-url: https://PEAAS-community.github.io/
+  Website for the PAASTA Community
+url: https://PAASTA-community.github.io/
 baseurl:
   "/"
   # the optional subpath of your site, e.g. "/blog"
@@ -18,8 +18,8 @@ baseurl:
 remote_theme: fongandrew/hydeout
 
 author:
-  name: "PEAAS Community"
-  url: https://twitter.com/PEAAS_community
+  name: "PAASTA Community"
+  url: https://twitter.com/PAASTA_community
 
 paginate: 5
 # paginate_path:    '/page:num'

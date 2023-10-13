@@ -1,18 +1,18 @@
 ---
 layout: page
-title: PEAAS2 - Travel
+title: PAASTA2 - Travel
 ---
 
-⚠️ All information is out of date. PEAAS2 is now a virtual workshop!
+⚠️ All information is out of date. PAASTA2 is now a virtual workshop!
 
 It will be hosted via Zoom, a link will be sent out to all participants via 
 email.
 
 ## Travel Instructions
 
-> ~~⚠️ Important: PEAAS2 is NOT in the same place as ISBA9!~~
+> ~~⚠️ Important: PAASTA2 is NOT in the same place as ISBA9!~~
 
-~~PEAAS2 will be held at the following address:~~
+~~PAASTA2 will be held at the following address:~~
 
 ~~Université Fédérale de Toulouse,~~
 ~~41 allée Jules Guesde,~~

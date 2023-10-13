@@ -1,4 +1,4 @@
-# PEAAS3
+# PAASTA3
 
 ## Programme
 
@@ -11,7 +11,7 @@ All times CEST (see here for Time Zone
 
 #### Day 1 - September 1 (15:00-18:55)
 
-- _15:00-15:15_ **Welcome to PEAAS3**
+- _15:00-15:15_ **Welcome to PAASTA3**
 - _15:15-16:35_ **[Session 1: Ethical considerations and best practices in ancient metagenomics research](#session-1)**
   - _15:15-15:25 “Respectfully moving forward: Discussing how the ancient metagenomic community will address ethical concerns”_ - Rita Austin
   - _15:25-15:40 “Addressing the shifting legacies of US racism through science communication and dialogue”_ - Justin Lund
@@ -63,8 +63,8 @@ All times CEST (see here for Time Zone
     - _16:10-16:20 “High-throughput and scalable ancient metagenomic analysis using nf-core/eager”_ - James Fellows Yates
     - _16:20-16:30 “Phylogenomics of ancient and modern pathogens with AMPHY”_ - Frederic Lemoine
     - _16:30-17:00_ Joint discussion with speakers on how to analyse your data
-- _17:00-17:15_ **Final open discussion, choosing next PEAAS organising committee and closing of PEAAS3**
-- _17:15-??_ **Join us in Gathertown for brew O’Clock! Let’s celebrate PEAAS3!**
+- _17:00-17:15_ **Final open discussion, choosing next PAASTA organising committee and closing of PAASTA3**
+- _17:15-??_ **Join us in Gathertown for brew O’Clock! Let’s celebrate PAASTA3!**
 
 
 ### Abstracts
@@ -79,7 +79,7 @@ _Rita Austin_<sup>1</sup>
 
 <sup>1</sup> Frontiers in Evolutionary Zoology, Natural History Museum, University of Oslo, Oslo, 0318, Norway
 
-The incredible developments in molecular technologies and techniques have made, otherwise invisible, narratives from and about the past accessible. However, the fieldâ€™s scientific advancements have overshadowed ethical considerations and concerns. In overlooking ethical necessities and frameworks, disengaged research strategies, practices, and interpretations have been implemented. Scientists conducting ancient metagenomics must reconceptualize their research processes and goals to respect the human remains being utilized, the ancient contexts they represent, and the descendant and communities of practice of assessed individuals. The current drive for more ethical practices within ancient metagenomic research provides the opportunity for realistic and respectful standards to be developed and applied. However, collaborative discussions among practitioners and assessment of what specific ethical best practices are, has not been assessed or synthesized. The PEAAS conference offers a unique opportunity to present, openly discuss, and begin to develop the fieldâ€™s ethical research standards in a collaborative environment. In discussing ethical expectations, this research aims to synthesize how the ancient metagenomic community understands and wants to improve their research conduct.
+The incredible developments in molecular technologies and techniques have made, otherwise invisible, narratives from and about the past accessible. However, the fieldâ€™s scientific advancements have overshadowed ethical considerations and concerns. In overlooking ethical necessities and frameworks, disengaged research strategies, practices, and interpretations have been implemented. Scientists conducting ancient metagenomics must reconceptualize their research processes and goals to respect the human remains being utilized, the ancient contexts they represent, and the descendant and communities of practice of assessed individuals. The current drive for more ethical practices within ancient metagenomic research provides the opportunity for realistic and respectful standards to be developed and applied. However, collaborative discussions among practitioners and assessment of what specific ethical best practices are, has not been assessed or synthesized. The PAASTA conference offers a unique opportunity to present, openly discuss, and begin to develop the fieldâ€™s ethical research standards in a collaborative environment. In discussing ethical expectations, this research aims to synthesize how the ancient metagenomic community understands and wants to improve their research conduct.
 
 
 _**Addressing the shifting legacies of US racism through science communication and dialogue**_
