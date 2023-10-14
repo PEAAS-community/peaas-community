@@ -19,7 +19,7 @@ remote_theme: fongandrew/hydeout
 
 author:
   name: "PAASTA Community"
-  url: https://twitter.com/PAASTA_community
+  url: https://twitter.com/PAASTAcommunity
 
 paginate: 5
 # paginate_path:    '/page:num'

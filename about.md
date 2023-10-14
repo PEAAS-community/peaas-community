@@ -22,7 +22,7 @@ Please join us on our:
 
 - [**slack channel**](https://join.slack.com/t/peaas-group/shared_invite/zt-24xmvzg4x-B2XHxI~YX2LmYLwvGgN87g)
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
-- [**twitter**](http://twitter.com/PEAAS_community) for latest news, polls, and publications.
+- [**twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications.
 
 <!-- Add more of these later as they become applicable, also paraphrase above text on slack and twitter. Now direct copy from SPAAM.
 
