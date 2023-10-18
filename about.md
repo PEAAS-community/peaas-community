@@ -37,4 +37,6 @@ to keep get involved and keep up-to-date!
 
 If you have any questions or want to reach out for more info about our PAASTA community, [**the steering committee**](https://PAASTA-community.github.io/steering_committee/) is here to assist you. -->
 
+<!--
 <i style="font-size: 10pt">The PAASTA Community is an affiliate of [The International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of PAASTA.</i>
+-->
