@@ -3,95 +3,117 @@ layout: page
 title: Steering Committee
 sidebar_link: true
 ---
-<!-- Place holder text for until we have a committee -->
-Currently the PAASTA steering committee is still being formed.
-The elected committee members will soon be announced after the first PAASTA meeting.
+ Hello all!
 
-<!-- Hello all!
+Although PAASTA is very much a bottom-up led community, there is still need for a small steering committee for the daily management. Here are short descriptions of who the people in the Steering Committee are and what they do.
 
-We, the Steering Committee of the PAASTA community would like to take a moment to introduce ourselves and give you all a quick idea of what we do.
-
-First, what is the Steering Committee? This is a new organizing committee that was formed last year during the [**PAASTA4**](https://PAASTA-community.github.io/events/2022/10/12/event-PAASTA4/) conference. It is intended to guide the PAASTA community in a more formalized way; this involves brainstorming and proposing new initiatives and helping new initiatives get off the ground (like the successfully  launched [**PAASTAtisch**](https://PAASTA-community.github.io/projects/#PAASTAtisch)), increasing engagement and support for PAASTA members and events, helping with ongoing organization efforts, publicization of PAASTA, and sourcing funds for the maintenance of PAASTA.
-
-We all are volunteers on the Steering Committee and we are really excited to work with all of you and help improve the PAASTA community.
+To begin with what the Steering Committee, it is a small committee, whose main responsibility is to manage the practicalities of keeping a community running, such as finance and communication. 
 
 ## The Steering Committee Members
 
-<img src="/assets/media/Miriam.png" class="center" width="50%" >
+<img src="/assets/media/ZandraFagernäs.png" class="center" width="50%" >
 
-Miriam Bravo-Lopez (she/her) - Chair
+Zandra Fagernäs - Chair
 
-I am a Mexican postdoctoral researcher at the International Laboratory for Human Genome Research (LIIGH), UNAM. My passion lies in exploring the evolutionary journey of ancient human pathogens using paleogenomics and paleoproteomics. I find solace hanging out with dogs, and when it comes to activities, running is my top pick.
+<!-- To be updated -->
 
-Contact: mbravo@liigh.unam.mx, [**twitter**](http://twitter.com/MiriamJBravo1)
+Contact: zandra.fagernas@sund.ku.dk,
 
-<img src="/assets/media/Ian.png" class="center" width="50%" >
+<img src="/assets/media/JanDekker.png" class="center" width="50%" >
 
-Ian Light-Máka (he/him) - Secretary
+Jan Dekker - Vice-chair
 
-I am a PhD student at the Max-Planck-Institute for Infection Biology in Felix Key’s lab. I study ancient pathogen evolution and emergence through a molecular evolution lens! I am also very interested in bioethics and spend lots of time making art.
+I am currently pursuing a joint PhD degree at the University of York and the University of Copenhagen. My research focuses on the role of charred foodcrusts as a reservoir of dietary proteins in an attempt to learn more about dietary change between the Danish Mesolithic and Neolithic. Apart from all that, I like to go running and hiking.
 
+Contact: jan@palaeome.org, [**twitter**](https://twitter.com/JAADekker)
+
+<img src="/assets/media/CarliPeters.png" class="center" width="50%" >
+
+Carli Peters - Secretary
+
+I am a postdoc in the Department of Archaeology at the Max Planck Institute of Geoanthropology in Jena, Germany. My research mostly focuses on the application of ZooMS in Australia, and I also am interested in ways to combine zooarchaeological and ZooMS datasets. Outside of work, I love to cook and play badminton!
+
+<!-- Update
 Contact: light@mpiib-berlin.mpg.de, [**twitter**](http://twitter.com/ilight1542)
+-->
 
-<img src="/assets/media/Gunnar.png" class="center" width="50%" >
+<img src="/assets/media/PaulaKotli.png" class="center" width="50%" >
 
-Gunnar Neumann (he/him) - Treasurer
+Paula Kotli - Secretary
 
-I am a PhD candidate in the department of archaeogenetics at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. My main research focuses are ancient pathogens and pathogen evolution. I love going to the theater, dance and art exhibitions, traveling, hiking and gardening.
+<!-- To be updated
 
 Contact: gunnar_neumann@eva.mpg.de, [**twitter**](http://twitter.com/gunnar_neumann)
+-->
 
-<img src="/assets/media/betsy.png" class="center" width="50%" >
+<img src="/assets/media/GwendolineMaurer.png" class="center" width="50%" >
 
-Betsy (Elizabeth Nelson) (she/her) - Treasurer
+Gwendoline Maurer - Social Media Officer
 
-I am a postdoc at the Institut Pasteur in Paris, France, and a faculty member of the Summer internship for INdigenous peoples in Genomics (SING) Canada. My research examines the emergence, evolution, and spread of infectious diseases in contexts marked by climatic, cultural, environmental, and socio-political transitions. I’m slightly obsessed with Logan Bean, dog-extraordinaire; But I also love making ceramics, gardening, hiking, and fishing. 
+<!-- To be updated >
 
 Contact: enelson@pasteur.fr, [**twitter**](http://twitter.com/eanelson42)
+-->
 
-<img src="/assets/media/maria.png" class="center" width="50%" >
+<img src="/assets/media/RachelWinter.png" class="center" width="50%" >
 
-Maria Lopopolo (she/her) - Social Media Team
+Rachel Winter - Social Media Officer
 
-I am a PhD student at the Institut Pasteur, Paris, France. I am interested in applying interdisciplinary approaches to the study of past populations from a genetic, anthropological, and metagenomic   point of view. My passions include ballet training, reading novels, roller skating, and Italian food. 
+I recently finished my PhD at the University of Groningen as part of the SeaChanges ITN. I am interested in using multidisciplinary approaches for historical ecology with partialities for paleoproteomics and marine ecosystems. I enjoy hiking, dogs, baking, and listening to Taylor Swift.
 
-Contact:  [**twitter**](http://twitter.com/Maria_Lopopolo), maria.lopopolo@pasteur.fr (email).
+Contact: rachelwinter@palaeome.org, [**twitter**](https://twitter.com/RachelMWinter_).
 
-<img src="/assets/media/Kadir.png" class="center" width="50%" >
+<img src="/assets/media/HelenFewlass.png" class="center" width="50%" >
 
-Kadir Toykan Özdoğan (he/him)  - Social Media Team
+Helen Fewlass - Event and Engagement Officer
 
-I am a PhD student, working on sedimentary ancient DNA to investigate the lifestyle of the Roman Limes people as a part of the “Constructing the Limes” project. I am based at the Utrecht University and Wageningen University & Research. I love basketball, beer-tasting and science fiction!
+<!-- To be updated
 
 Contact: k.t.ozdogan@uu.nl, [**twitter**](http://twitter.com/toykanozdogan)
+-->
 
-<img src="/assets/media/aida.png" class="center" width="50%" >
+<img src="/assets/media/LindseyPaskulin.png" class="center" width="50%" >
 
-Aida Andrades Valtueña (she/her)  - Engagement Team
+Lindsey Paskulin  - Event and Engagement TeOfficeram
 
-I am a postdoc at the Max Planck Institute for Evolutionary Anthropology working in the Computational Pathogenomics group. My main interest lies in pathogen emergence, dispersal and ecology and exploring new computational methods to make the most out of our little data! I am a passionate gardener, dog lover and a knitter.  
+I am a PhD Candidate and the lab manager for ADaPT Laboratory Facilities, a centre for ancient DNA and protein analysis led by Dr. Camilla Speller at the University of British Columbia in Vancouver. My PhD research is focused on the extraction of proteins from pottery residues, particularly in Mexico and Peru for understandings of past foodways and cuisine. As the lab manager for ADaPT, I also regularly apply ZooMS to a wide range of materials for taxonomic identification.
 
-Contact: aida_andrades@eva.mpg.de, [**twitter**](http://twitter.com/aidaanva), @aidanva (slack)
+Contact: lindseypaskulin@palaeome.org, [**twitter**](https://twitter.com/lpaskulin).
 
-<img src="/assets/media/shreya.png" class="center" width="50%" >
+<img src="/assets/media/LauraCaron.png" class="center" width="50%" >
 
-Shreya Ramachandran (she/her) - Engagement Team
+Laura Viñas Caron - Support Officer
 
-I am a PhD student in Dr. Maanasa Raghavan’s lab at the University of Chicago. My research projects span a variety of topics in microbial evolution, from ancient pathogens to modern gut microbiomes. I am also interested in science teaching and communication. Outside of science I love trying new recipes, befriending other people’s dogs, and solving crossword puzzles (sometimes competitively). 
+I am a postdoctoral researcher at the Centre for Textile Research and Globe Institute, University of Copenhagen. I am interested in understanding the evolutionary journey of domesticated animals using ancient proteins and DNA. I love cooking, books and films!
 
-Contact: shreya23@uchicago.edu, [**twitter**](http://twitter.com/srama23)
+Contact: laura@palaeome.org
+
+<img src="/assets/media/LouiseLeMeillour.png" class="center" width="50%" >
+
+Louise Le Meillour - Support Officer
+
+<!-- To be updated -->
+
+<img src="/assets/media/MariaCodlin.png" class="center" width="50%" >
+Maria Codlin - Support Officer
+
+<!-- To be updated -->
 
 ## Roles:
 
 **Management team**: formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
 
-- **Chair**: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the PAASTA community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
+- **Chair**: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the PAASTA community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the social media and event & engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
+
+-**Vice-chair**: supports the chair in their role and takes over the chair's responsibilities in case of their absence.
 
 - **Secretary**: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time
 
+<!-- Should be added in due time
 **Treasurer team**
 
 The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund PAASTA initiatives.
+-->
 
 **Social media team**
 
@@ -99,4 +121,8 @@ The social media team is responsible for the outreach of the community, by tweet
 
 **Engagement team**
 
-The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team. -->
+The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team. 
+
+**Support team**
+
+In contrast to the other roles in the steering committee, the support team does not have a single defined task. Instead, its primary role is to support the other members of the steering committee where necessary in case of increased workload.
