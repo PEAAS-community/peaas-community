@@ -15,7 +15,7 @@ To begin with what the Steering Committee, it is a small committee, whose main r
 
 Zandra Fagernäs - Chair
 
-<!-- To be updated -->
+I'm a postdoc in the Welker Group at the Globe Institute, University of Copenhagen. My research focuses on method development for palaeoproteomics of Pleistocene skeletal elements, as well as some amazing Pleistocene hominins around the world. Outside of work, I enjoy knitting, dancing, and hanging out with my postdog Tjorven!
 
 Contact: zandra.fagernas@sund.ku.dk,
 
@@ -92,7 +92,7 @@ Contact: laura@palaeome.org
 
 Louise Le Meillour - Support Officer
 
-<!-- To be updated -->
+I am a MSCA postdoc at Globe Institute, University of Copenhagen, Denmark. I did my PhD in the Natural History Museum in Paris, France where I studied the potential of ancient proteins for tracing the first Caprinae both in eastern and southern Africa. During my postdoc, I am mainly interested in studying ancient biomolecules in arid environments, especially concerning the advent of domestication and food production. I guess I really like challenges since dry and arid environments are not the best for preservation! I am really excited by the PAASTA community to grow and thrive, and we'll do my best to help in the process!
 
 <img src="/assets/media/MariaCodlin.png" class="center" width="50%" >
 Maria Codlin - Support Officer
