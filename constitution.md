@@ -54,7 +54,7 @@ The constitution (this document) outlines the structure and information about th
 
 ## Definition - Steering Committee
 
-The Stirring Committee is an executive board that manages the daily operations of the community and provides support, guidance and oversight of particular issues or projects within the context of the community. 
+The Steering Committee is an executive board that manages the daily operations of the community and provides support, guidance and oversight of particular issues or projects within the context of the community. 
 
 The tasks of the Steering Committee involve brainstorming and proposing new initiatives and helping new initiatives to get off the ground, by increasing engagement and support for PAASTA members and events, helping with ongoing organisation efforts, publicization of PAASTA, and sourcing funds for the maintenance of PAASTA.
 
