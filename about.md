@@ -23,12 +23,12 @@ Please join us on our:
 - [**slack channel**](https://join.slack.com/t/paasta-group/shared_invite/zt-24xmvzg4x-B2XHxI~YX2LmYLwvGgN87g)
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 - [**twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications.
+- [**youtube**](https://www.youtube.com/@PAASTAcommunity) for latest videos, lectures, recordings.
 
 <!-- Add more of these later as they become applicable, also paraphrase above text on slack and twitter. Now direct copy from SPAAM.
 
 - [**mailing list**](https://www.listserv.dfn.de/sympa/info/PAASTA-community) for announcements, calls, and notices.
 - [**mastodon**](htthttps://genomic.social/@PAASTA_community) for latest news, polls, and publications.
-- [**youtube**](https://www.youtube.com/@PAASTA-community) for latest videos, lectures, recordings.
 -->
 
 to keep get involved and keep up-to-date!
