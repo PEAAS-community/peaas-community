@@ -3,10 +3,10 @@ layout: page
 title: About
 sidebar_link: true
 ---
-<!-- Last edit of this page: 10-10-2023>
-<!-- Replace this image down the line (10-10-23)
+<!-- Last edit of this page: 10-10-2023> -->
+
 <img src="/assets/media/PAASTA-Logo-Full-Colour.png" class="center" width="50%" >
--->
+
 We are a community of researchers working on palaeoproteomics, the study of ancient proteins.
 
 The aim of the PAASTA community is to foster an open and supportive environment for all palaeoproteomics researchers to ask questions and share experiences. In particular PAASTA is commited to promote and facilitate collaborative and open science.
