@@ -71,5 +71,8 @@ We expect all participants (contributors, paid or otherwise, and other guests) t
 
 ### 7. Contact info
 
-The PAASTA safety officers will be announced here after their election. 
-Once an anonymous reporting form has been made available, its details will be shared in this document.
+The PAASTA safety officers are:
+- Liam Lanigan, University of Copenhagen (liamlanigan@palaeome.org)
+- Virginie Sinet-Mathiot, University of Bordeaux (virginie.sinetmathiot@palaeome.org)
+
+Apart from contacting the safety officers directly an anonymous reporting form is also in the making, which will be shared in this document once available.

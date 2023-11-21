@@ -74,7 +74,7 @@ Contact: k.t.ozdogan@uu.nl, [**twitter**](http://twitter.com/toykanozdogan)
 
 <img src="/assets/media/LindseyPaskulin.png" class="center" width="50%" >
 
-Lindsey Paskulin  - Event and Engagement TeOfficeram
+Lindsey Paskulin  - Event and Engagement Officer
 
 I am a PhD Candidate and the lab manager for ADaPT Laboratory Facilities, a centre for ancient DNA and protein analysis led by Dr. Camilla Speller at the University of British Columbia in Vancouver. My PhD research is focused on the extraction of proteins from pottery residues, particularly in Mexico and Peru for understandings of past foodways and cuisine. As the lab manager for ADaPT, I also regularly apply ZooMS to a wide range of materials for taxonomic identification.
 
