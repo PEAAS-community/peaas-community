@@ -7,7 +7,7 @@ sidebar_link: true
 
 <img src="/assets/media/PAASTA-Logo-Full-Colour.png" class="center" width="50%" >
 
-We are a community of researchers working on palaeoproteomics, the study of ancient proteins.
+We are "Palaeoproteomics and Archaeology, Society for Techniques and Advances", or PAASTA for short, a community of researchers working on palaeoproteomics, the study of ancient proteins.
 
 The aim of the PAASTA community is to foster an open and supportive environment for all palaeoproteomics researchers to ask questions and share experiences. In particular PAASTA is commited to promote and facilitate collaborative and open science.
 
@@ -24,10 +24,11 @@ Please join us on our:
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 - [**twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications.
 - [**youtube**](https://www.youtube.com/@PAASTAcommunity) for latest videos, lectures, recordings.
+- [**mailing list**](https://forms.gle/U5CwGZDDykAnVQpTA) for announcements, calls, and notices.
 
 <!-- Add more of these later as they become applicable, also paraphrase above text on slack and twitter. Now direct copy from SPAAM.
 
-- [**mailing list**](https://www.listserv.dfn.de/sympa/info/PAASTA-community) for announcements, calls, and notices.
+
 - [**mastodon**](htthttps://genomic.social/@PAASTA_community) for latest news, polls, and publications.
 -->
 

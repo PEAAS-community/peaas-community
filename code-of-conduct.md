@@ -76,3 +76,9 @@ The PAASTA safety officers are:
 - Virginie Sinet-Mathiot, University of Bordeaux (virginie.sinetmathiot@palaeome.org)
 
 Apart from contacting the safety officers directly an anonymous reporting form is also in the making, which will be shared in this document once available.
+
+### 8. License and attribution
+
+This Code of Conduct was modelled after the Code of Conduct of the [SPAAM](https://www.spaam-community.org/) community, which in turn is based on the Code of Conduct distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) and [Conf Code of Conduct](https://confcodeofconduct.com/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+
+Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
