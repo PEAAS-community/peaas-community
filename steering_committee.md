@@ -59,7 +59,7 @@ Contact: enelson@pasteur.fr, [**twitter**](http://twitter.com/eanelson42)
 
 Rachel Winter - Social Media Officer
 
-I recently finished my PhD at the University of Groningen as part of the SeaChanges ITN. I am interested in using multidisciplinary approaches for historical ecology with partialities for paleoproteomics and marine ecosystems. I enjoy hiking, dogs, baking, and listening to Taylor Swift.
+I am a postdoc in Arctic ecogeochemistry at the Centre de Recherche sur la Biodiversité et l’Environnement (CRBE), Université of Toulouse. I am interested in using multidisciplinary approaches and biomolecular methods of analysis for historical ecology with partialities for paleoproteomics, marine ecosystems, and the Mediterranean. I enjoy hiking, dogs, baking, and listening to Taylor Swift.
 
 Contact: rachelwinter@palaeome.org, [**twitter**](https://twitter.com/RachelMWinter_).
 
