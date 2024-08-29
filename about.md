@@ -20,7 +20,7 @@ We have various [events and a yearly workshop](/categories/events) with cycling 
 
 Please join us on our:
 
-- [**slack channel**](https://join.slack.com/t/paasta-group/shared_invite/zt-24xmvzg4x-B2XHxI~YX2LmYLwvGgN87g)
+- [**slack channel**](https://join.slack.com/t/paasta-group/shared_invite/zt-2lm0o0hz5-Aduv3H7bsXQAHVbX9uoNyw)
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 - [**twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications.
 - [**youtube**](https://www.youtube.com/@PAASTAcommunity) for latest videos, lectures, recordings.
