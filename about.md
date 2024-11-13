@@ -20,10 +20,10 @@ We have various [events and a yearly workshop](/categories/events) with cycling 
 
 Please join us on our:
 
-- [**slack channel**](https://join.slack.com/t/paasta-group/shared_invite/zt-2lm0o0hz5-Aduv3H7bsXQAHVbX9uoNyw)
+- [**Slack channel**](https://join.slack.com/t/paasta-group/shared_invite/zt-2lm0o0hz5-Aduv3H7bsXQAHVbX9uoNyw)
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
-- [**twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications.
-- [**youtube**](https://www.youtube.com/@PAASTAcommunity) for latest videos, lectures, recordings.
+- [**Twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications.
+- [**YouTube**](https://www.youtube.com/@PAASTAcommunity) for latest videos, lectures, recordings.
 - [**mailing list**](https://forms.gle/U5CwGZDDykAnVQpTA) for announcements, calls, and notices.
 
 <!-- Add more of these later as they become applicable, also paraphrase above text on slack and twitter. Now direct copy from SPAAM.
@@ -32,7 +32,7 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising.
 - [**mastodon**](htthttps://genomic.social/@PAASTA_community) for latest news, polls, and publications.
 -->
 
-to keep get involved and keep up-to-date!
+To keep get involved and keep up-to-date!
 
 If you have any questions or want to reach out for more info about our PAASTA community, [**the steering committee**](https://PAASTA-community.github.io/steering_committee/) is here to assist you.
 
