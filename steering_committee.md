@@ -97,7 +97,13 @@ I am a MSCA postdoc at Globe Institute, University of Copenhagen, Denmark. I did
 <img src="/assets/media/MariaCodlin.png" class="center" width="50%" >
 Maria Codlin - Support Officer
 
-<!-- To be updated -->
+<img src="/assets/media/Johanna_Krueger.png" class="center" width="50%" >
+
+Johanna Krueger - Newsletter manager
+
+I work on ancient proteins for evolutionary studies. For that, I have studied modern and ancient dental enamel proteins from primates and equids. I obtained my PhD from the Pompeu Fabra University in Barcelona, where I am currently located.
+
+Contact: uni.johanna.krueger@gmail.com
 
 ## Roles:
 
